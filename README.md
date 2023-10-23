@@ -35,4 +35,7 @@ https://public.tableau.com/app/profile/mohammed1559/viz/Health_16977634549030/Da
 Do note to view the dashboard in full screen to get a better experience 
 
 
+# Screenshots: 
+
+![Visualization 1](pic1.png)
 
