@@ -39,3 +39,4 @@ Do note to view the dashboard in full screen to get a better experience
 
 ![Female population impact on Fertility and birth rates](pic1.png)
 
+![Total births vs population](pic2.png)
