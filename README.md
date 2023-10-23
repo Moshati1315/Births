@@ -17,7 +17,7 @@ Analyze the relationship between total population and births
 
 Birth and fertility scatterplot: 
 
-Analyze female population on Birth and fertility impact
+Analyze female population impact on Birth and fertility rates
 
 # Dataset: 
 
