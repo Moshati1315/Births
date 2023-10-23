@@ -48,7 +48,7 @@ Do note to view the dashboard in full screen to get a better experience
 High Female Population & Moderate Rates: California and Texas have large circles (indicating high female populations) and are positioned in the middle ground for fertility and birth rates.
 Average Female Population & Varied Rates: States like Illinois, Colorado, and Louisiana have medium-sized circles and are spread across the scatterplot, indicating varied fertility and birth rates for states with similar female population sizes.
 
-Big Observation: Higher female population does not mean higher fertility and birth rates. For example, Utah has the highest fertility rate and birth rates despite having a female population way lower than most major states such as Texas
+Big Observation: Higher female population does not mean higher fertility and birth rates. For example, Utah has the highest birth rates despite having a female population way lower than most major states such as Texas
 
 The second scatterplot: 
 
