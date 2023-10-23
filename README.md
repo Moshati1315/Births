@@ -7,13 +7,17 @@ This project presents a deep dive into the demographic trends across U.S. states
 
 # Key Features
 
+
 # Interactive U.S. Map: 
+
 Hover over individual states to view detailed demographic statistics.
 
 # Births and Total Population Scatterplot: 
+
 Analyze the relationship between total population and births
 
 # Birth and fertility scatterplot: 
+
 Analyze female population on Birth and fertility impact
 
 # Dataset: 
